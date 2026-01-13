@@ -13,8 +13,9 @@ st.set_page_config(
 st.markdown("""
     <style>
     .stApp {
-        background: linear-gradient(135deg, #e3f2fd 0%, #f7f9fa 100%);
-    }
+    background: linear-gradient(135deg, #000000, #0f2027, #1b4332);
+    color: white;
+}
     .result-card {
         background: rgba(255,255,255,0.95);
         border-radius: 18px;
